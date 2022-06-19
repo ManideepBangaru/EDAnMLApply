@@ -1,1 +1,1 @@
-# EDAnMLApply
+# EDA and ML
